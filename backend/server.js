@@ -40,7 +40,7 @@ db.connect((err) => {
 
 app.post("/register", async (req, res) => {
     const { UserName, Email, Password } = req.body;
-    try {
+    try     {
 
         // HASH PASSWORD
         const hashedPassword = await bcrypt.hash(Password, 10);

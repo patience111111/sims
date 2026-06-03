@@ -55,11 +55,11 @@ export default function Login() {
                 <div className="text-center mb-8">
 
                     <h1 className="text-4xl font-bold text-white mb-2">
-                        Welcome Back
+                        LOGIN PAGE
                     </h1>
 
                     <p className="text-gray-400">
-                        Login to your account
+                        log to your account
                     </p>
 
                 </div>

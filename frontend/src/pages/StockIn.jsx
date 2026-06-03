@@ -22,7 +22,7 @@ export default function StockIn() {
 
         } catch (err) {
             console.log(err);
-            alert("Failed to add stock");
+            alert("Failed to add to stock");
         }
     };
 

@@ -129,17 +129,17 @@ export default function Register() {
                                 px-4
                                 py-3
                                 rounded-xl
-                                bg-gray-900/70
+                                bg-blue-900/70
                                 border
                                 border-gray-700
                                 text-white
-                                placeholder-gray-500
+                                placeholder-green_500
                                 outline-none
                                 transition-all
                                 duration-300
                                 focus:border-purple-500
                                 focus:ring-4
-                                focus:ring-purple-500/30
+                                focus:ring-pink-500/30
                                 focus:scale-[1.02]
                             "
                         />

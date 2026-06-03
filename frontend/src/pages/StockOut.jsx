@@ -67,10 +67,10 @@ export default function StockOut() {
     };
 
     return (
-        <div className="min-h-screen bg-gray-950 text-white p-6">
+        <div className=" min-h-screen bg-gray-950 text-white p-6">
 
             {/* FORM */}
-            <form onSubmit={handleStockOut} className="space-y-4 max-w-md">
+            <form onSubmit={handleStockOut} className="space-y-4 max-w-md ">
 
                 <input
                     value={id}
